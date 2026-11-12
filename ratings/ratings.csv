@@ -1,0 +1,8 @@
+rating,definition,includes,claimreview_alternateName
+False,The claim is inaccurate according to the best publicly available evidence.,"Conspiracy theories; false context of an image or video; fabricated content",False
+True,The claim is correct and accurate according to the best publicly available evidence.,,True
+Misleading,There might be elements that are accurate but presented in a misleading way.,False connections,Misleading
+Satire,The claim is satirical and intended to be taken as a joke.,,Satire
+Altered,"The content has been manipulated, faked, or transformed audio, video, or photos.",,Altered
+Partly False,The content has some factual inaccuracies. A mix of both True and False claims.,,Partly False
+Scam,"When the claim is a dishonest scheme, or fraud, and uses a trick to deceive.","""Too good to be true"" offers; impersonation of a genuine source",Scam
